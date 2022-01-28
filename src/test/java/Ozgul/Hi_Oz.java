@@ -7,4 +7,6 @@ public class Hi_Oz {
     //step 3
 
     //Benim ben Nesibe
+
+    //Neden olmadi gii
 }
